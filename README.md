@@ -1,7 +1,5 @@
 # 👋 Hi, I'm Siddhanta Chandra
 
-### Full-Stack Developer | TypeScript • React • Next.js • NestJS
-
 I'm a Full-Stack Developer focused on building production-ready web applications and scalable backend systems.
 
 * 💻 Worked across **frontend and backend development** using React, Next.js, NestJS, TypeScript, and PostgreSQL
