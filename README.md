@@ -5,7 +5,7 @@ Previously worked at: [`Onlybees`](https://certification.onlybees.in/validate?id
 |![GitHub Streak](https://streak-stats.demolab.com/?user=SiddhantaChandra&background=282A36&border=44475A&stroke=44475A&ring=BD93F9&fire=FFB86C&currStreakNum=F8F8F2&sideNums=F8F8F2&currStreakLabel=BD93F9&sideLabels=6272A4&dates=6272A4&hide_border=true)|![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SiddhantaChandra&theme=dracula)|
 |-----|------|
 
-# Recent Projects
+#### Recent Projects
 
 1. [slaysuki.com](https://www.slaysuki.com) (Next.js, NestJS)
    - A D2C e-commerce platform for trading card collectibles and accessories, with authentication, inventory reservation, order-locking, and Razorpay payment workflows. Self-hosted on a Linux VPS.
